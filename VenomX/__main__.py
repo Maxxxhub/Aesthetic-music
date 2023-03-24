@@ -53,7 +53,7 @@ async def init():
     await Venom.start()
     try:
         await Venom.stream_call(
-            "https://telegra.ph/file/8d5db123638c2f6bb6ce4.mp4"
+            "https://te.legra.ph/file/c50a3f6652f21e7f20a61.mp4"
         )
     except NoActiveGroupCall:
         LOGGER("VenomX").error(
