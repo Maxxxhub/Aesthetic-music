@@ -13,7 +13,7 @@ from config import (
     OWNER_ID as owner_id,
 )
 
-SUPPORT = "Itz_venom_family"
+SUPPORT = "AestheticBotSupport"
 
 def content(msg: Message) -> [None, str]:
     text_to_return = msg.text
@@ -42,10 +42,10 @@ async def bug(_, msg: Message):
     datetimes_fmt = "%d-%m-%Y"
     datetimes = datetime.utcnow().strftime(datetimes_fmt)
 
-    thumb = "https://te.legra.ph/file/7753e6b9852ea5c7ef074.jpg"
+    thumb = "https://te.legra.ph/file/5f9994890bc7e37de7045.jpg"
     
     bug_report = f"""
-**#ʙᴜɢ :** **@Itz_venom_ayush**
+**#ʙᴜɢ :** **@Weird_xdd**
 
 **ʀᴇᴩᴏʀᴛᴇᴅ ʙʏ :** **{mention}**
 **ᴜsᴇʀ ɪᴅ :** **{user_id}**
