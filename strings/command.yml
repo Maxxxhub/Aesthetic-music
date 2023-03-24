@@ -1,18 +1,18 @@
 # Bot Commands
 PING_COMMAND : ["ping", "alive"]
-START_COMMAND : ["start", "mstart"]
+START_COMMAND : ["startt", "mstart"]
 HELP_COMMAND : ["help"]
 SETTINGS_COMMAND : ["settings", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
 GSTATS_COMMAND : ["gstats", "globalstats"]
 STATS_COMMAND : ["stats"]
-LANGUAGE_COMMAND : ["lundlang", "lavdalele", "langlund"]
+LANGUAGE_COMMAND : ["lang"]
 
 # Play Commands
-PLAY_COMMAND : ["play", "okvplay", "cplay", "achacvplay", "playforce", "okvplayforce", "cplayforce", "achacvplayforce"]
+PLAY_COMMAND : ["play"]
 PLAYMODE_COMMAND : ["playmode", "mode"]
 CHANNELPLAY_COMMAND : ["channelplay"]
-STREAM_COMMAND : ["stream", "okcstream", "achastreamforce"]
+STREAM_COMMAND : ["stream"]
 
 #Playlists Command
 PLAYLIST_COMMAND : ["playlist"]
@@ -41,8 +41,8 @@ RESTART_COMMAND : ["reboot"]
 # Sudo Users Commaands
 
 # Sudo Command
-ADDSUDO_COMMAND : ["addsudo", "addrandi", "randi"]
-DELSUDO_COMMAND : ["delsudo", "rmsudo", "bsdk", "bhakkbsdk"]
+ADDSUDO_COMMAND : ["addsudo", "fucku"]
+DELSUDO_COMMAND : ["delsudo", "gmbsdk"]
 SUDOUSERS_COMMAND : ["sudolist", "listsudo", "sudoers", "sudo"]
 
 #Broadcast 
@@ -86,13 +86,13 @@ UNBLOCK_COMMAND : ["unblock"]
 BLOCKED_COMMAND : ["blockedusers", "blocked", "blusers"]
 
 #sPEEDTEST
-SPEEDTEST_COMMAND : ["speedtest", "spt", "stest", "speedt"]
+SPEEDTEST_COMMAND : ["speedtest"]
 
 #Voice chat commands
 ACTIVEVC_COMMAND : ["activevoice", "activevc"]
 ACTIVEVIDEO_COMMAND : ["activevideo", "activev"]
 
 #Gban Commands
-GBAN_COMMAND : ["gban", "gandban", "gandfaadban", "globalban"]
-UNGBAN_COMMAND : ["ungban", "gandback", "globalunban"]
+GBAN_COMMAND : ["gban"]
+UNGBAN_COMMAND : ["ungban", "globalunban"]
 GBANNED_COMMAND : ["gbannedusers", "gbanlist", "gbanned"]
