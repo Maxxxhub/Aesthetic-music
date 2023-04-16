@@ -3,7 +3,7 @@
 </p>
 
 ### ʙᴇsᴛ ᴍᴜsɪᴄ ʙᴏᴛ
-  <a href="https://github.com/Itzvenomo"><img alt="Website" src="https://img.shields.io/badge/𝐌𝐑 𝐀𝐘𝐔𝐒𝐇-blue"></a>
+  <a href="https://github.com/Maxxxhub"><img alt="Website" src="https://img.shields.io/badge/Suru-blue"></a>
  
 [![Stars](https://img.shields.io/github/stars/Itzvenomo/VenomXMusic?style=social)](https://github.com/Itzvenomo/VenomXMusic/stargazers)
   [![Forks](https://img.shields.io/github/forks/Itzvenomo/VenomXMusic?style=social)](https://github.com/Itzvenomo/VenomXMusic/fork)
@@ -24,7 +24,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Itzvenomo/VenomXMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Maxxxhub/Aesthetic-Music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
