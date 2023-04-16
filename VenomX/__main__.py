@@ -63,7 +63,7 @@ async def init():
     except:
         pass
     await Venom.decorators()
-    LOGGER("VenomX").info("Music Bot Started Successfully, Now Gib your girlfriend chumt to @Itz_venom_ayush")
+    LOGGER("VenomX").info("Music Bot Started Successfully, Now Gib your girlfriend chumt to @Weird_xdd")
     await idle()
 
 
